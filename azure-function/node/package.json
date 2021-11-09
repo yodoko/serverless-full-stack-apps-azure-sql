@@ -1,6 +1,16 @@
 {
+  "scripts": {
+    "lint": "eslint ./",
+    "prettier": "prettier --write ./"
+  },
   "dependencies": {
     "mssql": "^6.3.1",
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "prettier": "^2.4.1"
   }
 }
