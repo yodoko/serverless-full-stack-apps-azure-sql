@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "mssql": "^6.3.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "eslint": "^8.2.0",
